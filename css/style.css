@@ -1,0 +1,30 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    color: cornflowerblue;
+}
+
+.active {
+    color: tomato;
+}
+
+.sexy-font {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.hidden {
+    display: none;
+}
+
+/* div {
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    transition: width 1s;
+}
+
+div:hover {
+    width: 300px;
+} */
