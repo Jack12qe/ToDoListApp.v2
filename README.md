@@ -1,6 +1,6 @@
 # ToDoListApp.v2
 
-This is my first ToDoList application using HTML, CSS, JavaScript.
+This is improved ToDoList application.
 
 Before Login
 <img src="screenshot1.png">
